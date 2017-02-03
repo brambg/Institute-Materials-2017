@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="987eaf2f-d929-4fcc-864e-70b248660b68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLParser.g4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gen/java/lmnl_antlr/LMNLLexer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/gen/java/lmnl_antlr/LMNLLexer.tokens" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.gitignore" afterPath="$PROJECT_DIR$/../../.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lmnl-grammar.iml" afterPath="$PROJECT_DIR$/lmnl-grammar.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLLexer.g4" afterPath="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLLexer.g4" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,11 +25,27 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="Document.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/data_model/Document.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="250">
+                  <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="false" />
+                    <element signature="e#275#276#0" expanded="false" />
+                    <element signature="e#315#316#0" expanded="false" />
+                    <element signature="e#343#344#0" expanded="false" />
+                    <element signature="e#371#372#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="LMNLImporter.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_importer/LMNLImporter.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="700">
-                  <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+                <state relative-caret-position="426">
+                  <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -44,23 +53,49 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom.xml">
+          <file leaf-file-name="1kings12.lmnl" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/data/1kings12.lmnl">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1543">
-                  <caret line="68" column="26" lean-forward="false" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+                <state relative-caret-position="125">
+                  <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="LMNLLexer.g4" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLLexer.g4">
+          <file leaf-file-name="ozymandias-voices-wap.lmnl" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/data/ozymandias-voices-wap.lmnl">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="575">
-                  <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+                <state relative-caret-position="425">
+                  <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="750">
+                  <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
                   <folding>
-                    <element signature="e#0#3045#0" expanded="true" />
+                    <marker date="1486121530323" expanded="true" signature="2706:2737" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="LMNLLexer.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/gen/java/lmnl_antlr/LMNLLexer.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="625">
+                  <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+                  <folding>
+                    <element signature="imports" expanded="false" />
+                    <element signature="e#3167#3168#0" expanded="false" />
+                    <element signature="e#3191#3192#0" expanded="false" />
+                    <element signature="e#3241#3242#0" expanded="false" />
+                    <element signature="e#3265#3266#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -69,11 +104,9 @@
           <file leaf-file-name="TextRange.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/data_model/TextRange.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="625">
-                  <caret line="26" column="54" lean-forward="false" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
-                  <folding>
-                    <element signature="imports" expanded="false" />
-                  </folding>
+                <state relative-caret-position="575">
+                  <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -81,11 +114,13 @@
           <file leaf-file-name="Limen.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/data_model/Limen.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="700">
-                  <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+                <state relative-caret-position="375">
+                  <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
                   <folding>
                     <element signature="e#730#731#0" expanded="false" />
                     <element signature="e#777#778#0" expanded="false" />
+                    <element signature="e#830#831#0" expanded="false" />
+                    <element signature="e#879#880#0" expanded="false" />
                     <element signature="e#934#935#0" expanded="false" />
                     <element signature="e#985#986#0" expanded="false" />
                     <element signature="e#1218#1219#0" expanded="false" />
@@ -99,69 +134,14 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-          <file leaf-file-name="Annotation.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/data_model/Annotation.java">
+          <file leaf-file-name="LMNLLexer.g4" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLLexer.g4">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="450">
-                  <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+                <state relative-caret-position="150">
+                  <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
                   <folding>
-                    <element signature="e#534#535#0" expanded="true" />
-                    <element signature="e#568#569#0" expanded="true" />
+                    <element signature="e#0#3045#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TestTheLMNLLexer.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/TestTheLMNLLexer.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="650">
-                  <caret line="31" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="LMNLParser.g4" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLParser.g4">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="LMNLImporterTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_importer/LMNLImporterTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="17" column="75" lean-forward="true" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="LMNLTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="875">
-                  <caret line="35" column="53" lean-forward="false" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Logger.java" pinned="false" current-in-tab="false">
-            <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/logging/Logger.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1846">
-                  <caret line="402" column="12" lean-forward="false" selection-start-line="402" selection-start-column="12" selection-end-line="402" selection-end-column="12" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -180,14 +160,22 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ParseTree</find>
+      <find>importer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="develop" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/lmnl-grammar.g4" />
+        <option value="$PROJECT_DIR$/src/lmnlgrammar.g4" />
         <option value="$PROJECT_DIR$/src/LMNLParserGrammar.g4" />
         <option value="$PROJECT_DIR$/src/LMNLGrammar.g4" />
         <option value="$PROJECT_DIR$/src/TestTheLMNLLexer.java" />
@@ -223,22 +211,18 @@
         <option value="$PROJECT_DIR$/src/lmnl_importer/LMNLImporterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/disregarded_experiment_do_not_use/TestTheLMNLParser.java" />
         <option value="$PROJECT_DIR$/../../../balisage_2017/Balisage-1-3-xsl/Bal2017birn0505.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/data_model/Annotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/data_model/TextNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/data_model/Limen.java" />
         <option value="$PROJECT_DIR$/src/main/java/data_model/Document.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_model/TextRange.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_model/Annotation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lmnl_importer/LMNLImporter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lmnl_antlr/lmnl.g4" />
-        <option value="$PROJECT_DIR$/gen/lmnl_antlr/lmnl_antlr/LMNLVisitor.java" />
-        <option value="$PROJECT_DIR$/src/gen/java/lmnl_antlr/LMNLLexer.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/lmnl_importer/LMNLImporterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLLexerRHD.g4" />
-        <option value="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNL.g4" />
         <option value="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLLexer.g4" />
-        <option value="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLParser.g4" />
+        <option value="$PROJECT_DIR$/src/main/java/data_model/TextRange.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/lmnl_importer/LMNLImporter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLTest.java" />
+        <option value="$PROJECT_DIR$/data/1kings12.lmnl" />
+        <option value="$PROJECT_DIR$/data/ozymandias-voices-wap.lmnl" />
+        <option value="$PROJECT_DIR$/src/main/java/lmnl_importer/LMNLImporterTest.java" />
       </list>
     </option>
   </component>
@@ -260,7 +244,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -274,108 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lmnl-grammar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lmnl-grammar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lmnl-grammar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lmnl-grammar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lmnl-grammar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lmnl-grammar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lmnl_antlr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lmnl-grammar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lmnl-grammar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lmnl_antlr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="lmnl-grammar">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -432,7 +314,183 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lmnl-grammar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lmnl-grammar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lmnl-grammar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lmnl-grammar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lmnl-grammar">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lmnl-grammar">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test/java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lmnl_importer">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lmnl-grammar">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test/java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lmnl_antlr">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lmnl-grammar">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main/java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lmnl_importer">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lmnl-grammar">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main/java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lmnl_antlr">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lmnl-grammar">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main/java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lmnl-grammar">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lmnl-grammar">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="data">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -466,57 +524,21 @@
     <property name="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLLexer.g4::/output-dir" value="$PROJECT_DIR$/src/gen/java" />
     <property name="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLLexer.g4::/gen-listener" value="true" />
     <property name="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLLexer.g4::/gen-visitor" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/gen/java" />
-    <property name="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNL.g4::/auto-gen" value="true" />
-    <property name="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNL.g4::/output-dir" value="C:\Users\bramb\workspaces\alexandria\Institute-Materials-2017\alexandria\lmnl-grammar\src\gen\java" />
-    <property name="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNL.g4::/language" value="Java" />
-    <property name="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNL.g4::/gen-listener" value="true" />
-    <property name="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNL.g4::/gen-visitor" value="true" />
-    <property name="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLParser.g4::/auto-gen" value="true" />
-    <property name="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLParser.g4::/lib-dir" value="C:\Users\bramb\workspaces\alexandria\Institute-Materials-2017\alexandria\lmnl-grammar\src\gen\java" />
-    <property name="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLParser.g4::/gen-listener" value="true" />
-    <property name="$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLParser.g4::/gen-visitor" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/lmnl_antlr" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/lmnl_antlr" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lmnl_importer" />
       <recent name="graph_model" />
       <recent name="LMNL_model" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lmnl_antlr" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lmnl_antlr" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.LMNLTest.testCorrectLMNLDocument">
-    <configuration default="false" name="TestTheLMNLLexer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lmnl_antlr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="lmnl-grammar" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lmnl_antlr" />
-      <option name="MAIN_CLASS_NAME" value="lmnl_antlr.TestTheLMNLLexer" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.All in lmnl-grammar">
     <configuration default="false" name="LMNLImporterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -590,7 +612,33 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="LMNLTest.testCorrectLMNLDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="LMNLImporterTest.testLexingComplex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lmnl_importer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="lmnl-grammar" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lmnl_importer" />
+      <option name="MAIN_CLASS_NAME" value="lmnl_importer.LMNLImporterTest" />
+      <option name="METHOD_NAME" value="testLexingComplex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestTheLMNLLexer.testLexerComplexExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="lmnl_antlr.*" />
@@ -601,8 +649,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="lmnl_antlr" />
-      <option name="MAIN_CLASS_NAME" value="lmnl_antlr.LMNLTest" />
-      <option name="METHOD_NAME" value="testCorrectLMNLDocument" />
+      <option name="MAIN_CLASS_NAME" value="lmnl_antlr.TestTheLMNLLexer" />
+      <option name="METHOD_NAME" value="testLexerComplexExample" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -884,19 +932,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestTheLMNLLexer" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.LMNLImporterTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.All in lmnl-grammar" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.LMNLImporterTest.testTextRangeAnnotation" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.LMNLTest.testCorrectLMNLDocument" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LMNLImporterTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.All in lmnl-grammar" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LMNLImporterTest.testTextRangeAnnotation" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LMNLImporterTest.testLexingComplex" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestTheLMNLLexer.testLexerComplexExample" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.LMNLTest.testCorrectLMNLDocument" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in lmnl-grammar" />
         <item index="1" class="java.lang.String" itemvalue="JUnit.LMNLImporterTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.LMNLImporterTest.testTextRangeAnnotation" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.All in lmnl-grammar" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestTheLMNLLexer" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LMNLImporterTest.testLexingComplex" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestTheLMNLLexer.testLexerComplexExample" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.LMNLImporterTest.testTextRangeAnnotation" />
       </list>
     </recent_temporary>
   </component>
@@ -1030,77 +1078,90 @@
       <option name="project" value="LOCAL" />
       <updated>1485440842465</updated>
     </task>
-    <task id="LOCAL-00018" summary="[NLA-347] add annotation parsing, use assertj in test">
-      <created>1485529551234</created>
+    <task id="LOCAL-00018" summary="[NLA-347] Cypher example scripts for generating document graph">
+      <created>1485792979672</created>
       <option name="number" value="00018" />
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
-      <updated>1485529551234</updated>
+      <updated>1485792979672</updated>
     </task>
-    <task id="LOCAL-00019" summary="[NLA-347] some refactorings">
-      <created>1485534298423</created>
+    <task id="LOCAL-00019" summary="[NLA-347] Test imported on more complicated lmnl">
+      <created>1485793782009</created>
       <option name="number" value="00019" />
       <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1485534298423</updated>
+      <updated>1485793782009</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="[NLA-347] Set up tests for 2 lmnl test files">
+      <created>1486122465150</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1486122465150</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[NLA-347] Move test classes to src/test/java">
+      <created>1486122751068</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1486122751068</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LMNLTest_testCorrectLMNLDocument - 2017.01.30 at 11h 23m 45s.xml">
-      <configuration name="LMNLTest.testCorrectLMNLDocument" configurationId="JUnit" />
+    <history-entry file="All_in_lmnl-grammar - 2017.02.03 at 12h 51m 49s.xml">
+      <configuration name="All in lmnl-grammar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LMNLTest_testCorrectLMNLDocument - 2017.01.30 at 11h 24m 01s.xml">
-      <configuration name="LMNLTest.testCorrectLMNLDocument" configurationId="JUnit" />
+    <history-entry file="LMNLImporterTest - 2017.02.03 at 12h 37m 52s.xml">
+      <configuration name="LMNLImporterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LMNLTest_testCorrectLMNLDocument - 2017.01.30 at 11h 28m 20s.xml">
-      <configuration name="LMNLTest.testCorrectLMNLDocument" configurationId="JUnit" />
+    <history-entry file="LMNLImporterTest - 2017.02.03 at 12h 40m 02s.xml">
+      <configuration name="LMNLImporterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LMNLTest_testCorrectLMNLDocument - 2017.01.30 at 11h 30m 46s.xml">
-      <configuration name="LMNLTest.testCorrectLMNLDocument" configurationId="JUnit" />
+    <history-entry file="LMNLImporterTest - 2017.02.03 at 12h 46m 15s.xml">
+      <configuration name="LMNLImporterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LMNLTest_testCorrectLMNLDocument - 2017.01.30 at 11h 53m 23s.xml">
-      <configuration name="LMNLTest.testCorrectLMNLDocument" configurationId="JUnit" />
+    <history-entry file="LMNLImporterTest_testLexingComplex - 2017.01.30 at 15h 22m 04s.xml">
+      <configuration name="LMNLImporterTest.testLexingComplex" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LMNLTest_testCorrectLMNLDocument - 2017.01.30 at 11h 58m 56s.xml">
-      <configuration name="LMNLTest.testCorrectLMNLDocument" configurationId="JUnit" />
+    <history-entry file="LMNLImporterTest_testLexingComplex - 2017.01.30 at 15h 24m 32s.xml">
+      <configuration name="LMNLImporterTest.testLexingComplex" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LMNLTest_testCorrectLMNLDocument - 2017.01.30 at 12h 10m 56s.xml">
-      <configuration name="LMNLTest.testCorrectLMNLDocument" configurationId="JUnit" />
+    <history-entry file="LMNLImporterTest_testLexingComplex - 2017.01.30 at 17h 23m 48s.xml">
+      <configuration name="LMNLImporterTest.testLexingComplex" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LMNLTest_testCorrectLMNLDocument - 2017.01.30 at 12h 14m 10s.xml">
-      <configuration name="LMNLTest.testCorrectLMNLDocument" configurationId="JUnit" />
+    <history-entry file="LMNLImporterTest_testLexingComplex - 2017.01.30 at 17h 27m 32s.xml">
+      <configuration name="LMNLImporterTest.testLexingComplex" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LMNLTest_testCorrectLMNLDocument - 2017.01.30 at 12h 16m 04s.xml">
-      <configuration name="LMNLTest.testCorrectLMNLDocument" configurationId="JUnit" />
+    <history-entry file="TestTheLMNLLexer_testLexerComplexExample - 2017.01.30 at 15h 01m 34s.xml">
+      <configuration name="TestTheLMNLLexer.testLexerComplexExample" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LMNLTest_testCorrectLMNLDocument - 2017.01.30 at 12h 16m 29s.xml">
-      <configuration name="LMNLTest.testCorrectLMNLDocument" configurationId="JUnit" />
+    <history-entry file="TestTheLMNLLexer_testLexerComplexExample - 2017.01.30 at 15h 17m 05s.xml">
+      <configuration name="TestTheLMNLLexer.testLexerComplexExample" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="3829" y="-11" width="3862" height="2182" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13237481" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13248408" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282102" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328706" sideWeight="0.502939" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66129035" sideWeight="0.5029412" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969758" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328706" sideWeight="0.49706098" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969758" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328706" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29114583" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328706" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42465752" sideWeight="0.4970588" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39960337" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1108,7 +1169,26 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1132,17 +1212,26 @@
     <MESSAGE value="Moved the storage of text ranges to the Limen in the LOM. Made TextRange contain the effected TextNodes." />
     <MESSAGE value="Added TextNode -&gt; TextRange mapping in the Limen container class. Added Limen as owner to the TextRange class." />
     <MESSAGE value="Document: added getter for Limen. LMNLImporter: removed old remarked code and added TODO. Made LMNLImporterTest compile with the newer LOM api." />
-    <MESSAGE value="[NLA-347] add annotation parsing, use assertj in test" />
-    <MESSAGE value="[NLA-347] some refactorings" />
-    <option name="LAST_COMMIT_MESSAGE" value="[NLA-347] some refactorings" />
+    <MESSAGE value="[NLA-347] Cypher example scripts for generating document graph" />
+    <MESSAGE value="[NLA-347] Test imported on more complicated lmnl" />
+    <MESSAGE value="[NLA-347] Set up tests for 2 lmnl test files" />
+    <MESSAGE value="[NLA-347] Move test classes to src/test/java" />
+    <option name="LAST_COMMIT_MESSAGE" value="[NLA-347] Move test classes to src/test/java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gen/LMNLParserGrammar.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/antlr-4.6-complete.jar!/org/antlr/v4/runtime/ParserRuleContext.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/antlr-4.6-complete.jar!/org/antlr/v4/runtime/Lexer.class" />
+    <entry file="file://$PROJECT_DIR$/gen/LMNLGrammar.tokens" />
+    <entry file="file://$PROJECT_DIR$/gen/LMNLParser.java" />
+    <entry file="file://$PROJECT_DIR$/gen/LMNLGrammar.java" />
+    <entry file="file://$PROJECT_DIR$/gen/lmnl_antlr/LMNLParserVisitor.java" />
     <entry file="file://$PROJECT_DIR$/gen/lmnl_antlr/LMNLParserListener.java" />
     <entry file="file://$PROJECT_DIR$/gen/lmnl_antlr/LMNLParserBaseListener.java" />
     <entry file="file://$PROJECT_DIR$/gen/lmnl_antlr/LMNLGrammar.java" />
@@ -1175,15 +1264,16 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_importer/LMNLImporterVisitor.java" />
     <entry file="file://$PROJECT_DIR$/../../../balisage_2017/Balisage-1-3-xsl/Bal2017birn0505.xml" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Map.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/disregarded_experiment_do_not_use/LMNLImporterVisitor.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/disregarded_experiment_do_not_use/TestTheLMNLParser.java" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/Test.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_model/Annotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/disregarded_experiment_do_not_use/LMNLImporterVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/disregarded_experiment_do_not_use/TestTheLMNLParser.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/data_model/TextNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1196,27 +1286,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#275#276#0" expanded="false" />
+            <element signature="e#315#316#0" expanded="false" />
+            <element signature="e#343#344#0" expanded="false" />
+            <element signature="e#371#372#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_model/TextRange.java">
+    <entry file="file://$PROJECT_DIR$/src/gen/java/lmnl_antlr/LMNLLexer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
-          <caret line="26" column="54" lean-forward="false" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#3167#3168#0" expanded="false" />
+            <element signature="e#3191#3192#0" expanded="false" />
+            <element signature="e#3241#3242#0" expanded="false" />
+            <element signature="e#3265#3266#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLLexer.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#3045#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/TestTheLMNLLexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data_model/Limen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        <state relative-caret-position="375">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
           <folding>
             <element signature="e#730#731#0" expanded="false" />
             <element signature="e#777#778#0" expanded="false" />
+            <element signature="e#830#831#0" expanded="false" />
+            <element signature="e#879#880#0" expanded="false" />
             <element signature="e#934#935#0" expanded="false" />
             <element signature="e#985#986#0" expanded="false" />
             <element signature="e#1218#1219#0" expanded="false" />
@@ -1225,159 +1352,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_model/Annotation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_model/TextRange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gen/lmnl_antlr/LMNL.tokens">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gen/lmnl_antlr/LMNLVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gen/lmnl_antlr/lmnl_antlr/LMNLVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gen/java/lmnl_antlr/LMNLBaseListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gen/java/lmnl_antlr/LMNLBaseVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gen/java/lmnl_antlr/LMNLVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/util/logging/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1846">
-          <caret line="402" column="12" lean-forward="false" selection-start-line="402" selection-start-column="12" selection-end-line="402" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gen/java/lmnl_antlr/LMNLParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2000">
-          <caret line="59" column="35" lean-forward="false" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gen/java/lmnl_antlr/LMNLLexer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1925">
-          <caret line="77" column="47" lean-forward="false" selection-start-line="77" selection-start-column="47" selection-end-line="77" selection-end-column="47" />
+        <state relative-caret-position="575">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1543">
-          <caret line="68" column="26" lean-forward="false" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+        <state relative-caret-position="750">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <marker date="1486121530323" expanded="true" signature="2706:2737" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.6/antlr4-runtime-4.6.jar!/org/antlr/v4/runtime/ANTLRInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="52" column="9" lean-forward="false" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/TestTheLMNLLexer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_importer/LMNLImporter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="426">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/1kings12.lmnl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ozymandias-voices-wap.lmnl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_importer/LMNLImporterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="75" lean-forward="true" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="35" column="53" lean-forward="false" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLLexer.g4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#3045#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_importer/LMNLImporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLLexer.g4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#3045#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lmnl_antlr/LMNLParser.g4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="1472">
+          <caret line="73" column="39" lean-forward="false" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
           <folding />
         </state>
       </provider>
