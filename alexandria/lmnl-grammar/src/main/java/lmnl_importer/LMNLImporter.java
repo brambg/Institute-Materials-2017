@@ -5,6 +5,8 @@ import lmnl_antlr.LMNLLexer;
 import org.antlr.v4.runtime.ANTLRInputStream;
 import org.antlr.v4.runtime.Token;
 
+import java.io.IOException;
+import java.io.InputStream;
 import java.util.Stack;
 
 /**
@@ -13,7 +15,22 @@ import java.util.Stack;
 public class LMNLImporter {
 
   public Document importLMNL(String input) {
-    LMNLLexer lexer = new LMNLLexer(new ANTLRInputStream(input));
+    ANTLRInputStream antlrInputStream = new ANTLRInputStream(input);
+    return importLMNL(antlrInputStream);
+  }
+
+  public Document importLMNL(InputStream input) {
+    try {
+      ANTLRInputStream antlrInputStream = new ANTLRInputStream(input);
+      return importLMNL(antlrInputStream);
+    } catch (IOException e) {
+      e.printStackTrace();
+      throw new RuntimeException(e);
+    }
+  }
+
+  private Document importLMNL(ANTLRInputStream antlrInputStream) {
+    LMNLLexer lexer = new LMNLLexer(antlrInputStream);
     Document document = new Document();
     Limen limen = document.value();
     Token token;
